@@ -1,0 +1,22 @@
+{
+  "name": "social-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleyume/social-downloader.git"
+  },
+  "author": "Stanley Ume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleyume/social-downloader/issues"
+  },
+  "homepage": "https://github.com/stanleyume/social-downloader#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
